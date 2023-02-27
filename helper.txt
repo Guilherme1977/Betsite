@@ -1,0 +1,24 @@
+===================== AWS credential
+https://941404222858.signin.aws.amazon.com/console
+User name: roman
+Password: Vladaccount!22
+===================== toptal
+https://tracker.toptal.com/app/projects?tab=active&sort-by=project-name&sort-order=asc
+nursultansaudirbaev157@gmail.com
+starsw2SW@
+===================== github
+https://github.com/webdev510/-aglaonema-front
+
+===================== trello
+https://trello.com/b/F6FmKsJV/vue-front-end
+nursultansaudirbaev157@gmail.com
+1qw2!QW@
+
+===================== Form validation
+https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation
+===================== FontAwesome Free
+fontawesome.com/search?q=file&o=r&m=free
+
+
+
+
